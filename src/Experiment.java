@@ -3,7 +3,7 @@ public class Experiment {
 
 
         System.out.println("Republica Moldova");
-        System.out.println("Republica Moldova");
+        System.out.println("Republica Franceza");
         System.out.println("Republica Moldova");
 
     }
