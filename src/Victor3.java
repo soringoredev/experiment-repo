@@ -1,0 +1,2 @@
+public class Victor3 {
+}
